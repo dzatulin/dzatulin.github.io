@@ -15,7 +15,7 @@ tags:
 - Мониторинг производительности Elasticsearch.
 - Мониторинг Kibana и маршрутизации данных в кластер.
 
-  <img src="http://165.22.70.9:4000/assets/images/stack_mon.jpg">
+  <img src="https://dzatulin.github.io/assets/images/stack_mon.jpg">
 
 В случии использования **BASIC** лицензии **X-PAC** мы можем мониторить один кластер Elasticsearch. Базовая настройка использует локальный кластер в нашем случае кластер Elasticsearch вынесен на удаеленный сервер.  
 
