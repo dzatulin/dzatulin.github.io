@@ -5,3 +5,4 @@ _site
 Gemfile.lock
 posts.sh
 start.sh
+def_posts

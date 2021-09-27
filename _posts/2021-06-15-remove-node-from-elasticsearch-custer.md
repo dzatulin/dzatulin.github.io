@@ -4,7 +4,7 @@ date: 2021-06-15
 categories:
   - Blog
 tags:
-  - Elasticsearch
+  - ELK
 ---
 Для того, что бы извлечь ноду из кластера Elasticsearch, необходимо выполнить команду.
 ```

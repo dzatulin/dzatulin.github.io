@@ -4,8 +4,8 @@ date: 2020-11-04
 categories:
   - Blog
 tags:
-  - Elasticsearch
-  - Kibana
+  - ELK
+  - Monitoring
 ---
   В Kibana есть хороший детализированый мониторинг кластера Elasticsearch. Для его использования необходимо установить модуль X-PAC. 
   
