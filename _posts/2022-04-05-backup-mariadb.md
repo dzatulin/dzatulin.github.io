@@ -31,7 +31,7 @@ mariabackup --user=root --password=******** --parallel=16 --decompress --remove-
 ```
 Провека и подготовка бекапа **server02**: 
 ```
-mariabackup --prepare --user=root --password=******** 
+mariabackup --prepare --user=root --password=******** --target-dir=/var/mysql/.backup
 ```
 Восстанавливаем бекап **server02**:
 ```
