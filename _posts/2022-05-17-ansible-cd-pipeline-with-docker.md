@@ -15,6 +15,7 @@ dockertest-02 ansible_host=10.10.10.2 ansible_user=dev
 Таким образом мы можем развернуть приложение в контейнере на N-количестве серверов. 
 
 Пример Ansible Playbook:
+```
 ---
 - hosts: docker-test
   vars: 
@@ -115,7 +116,7 @@ dockertest-02 ansible_host=10.10.10.2 ansible_user=dev
     supervisorctl:
       name: all
       state: restarted
-
+```
 Такие параметры как
 - {{ project_name }}  - имя проекта(репозитория)
 - {{ env }} - ветка
