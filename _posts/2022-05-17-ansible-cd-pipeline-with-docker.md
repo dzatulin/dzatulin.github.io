@@ -117,9 +117,10 @@ dockertest-02 ansible_host=10.10.10.2 ansible_user=dev
       name: all
       state: restarted
 ```
-Такие параметры как
-- {{ project_name }}  - имя проекта(репозитория)
-- {{ env }} - ветка
-- {{ slack_token }}   - токен для оповещения в SLACK
-- {{ slack_channel }} - слак канал 
-- {{ buildid }}       - id сбоки
+Такие параметры как:
+
+- project_name     - имя проекта(репозитория)
+- env              - ветка
+- slack_token      - токен для оповещения в SLACK
+- slack_channel    - слак канал 
+- buildid          - id сбоки
