@@ -1,6 +1,7 @@
 ---
 title: "Ansible CD pipeline with docker"
 date: 2022-05-17
+categories:
   - Blog
 tags:
   - CI/CD

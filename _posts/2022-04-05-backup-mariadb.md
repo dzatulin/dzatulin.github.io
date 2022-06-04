@@ -1,6 +1,7 @@
 ---
 title: "Mariabackup backup and restore big data"
 date: 2022-04-05
+categories:
   - Blog
 tags:
   - MariaDB
