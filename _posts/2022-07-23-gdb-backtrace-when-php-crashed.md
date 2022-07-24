@@ -63,12 +63,6 @@ Restart PHP-FPM:
 systemctl restart php-fpm
 ```
 
-To confirm core dump was generated look for SIGSEGV - core dumped in PHP-FPM error log:
-
-```
-[11-May-2015 15:34:03] WARNING: [pool www] child 2553 exited on signal 11 (SIGSEGV - core dumped) after 6943 521858 seconds from start
-```
-
 To interact with core dump we can use coredumpctl utility:
 
 ```
