@@ -1,5 +1,5 @@
 ---
-title: "Рейтинг ip адресов по количеству запросов Nginx в ELK"
+title: "Рейтинг ip адресов Nginx в ELK"
 date: 2022-09-11
 categories:
   - Blog
