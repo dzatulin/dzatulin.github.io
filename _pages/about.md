@@ -3,4 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-Здравствуйте! Меня зовут Затулин Дмитрий я системный администратор с 10-и летним опытом работы, специализирующийся в основном на технологиях Linux. Я создал данный блог с целью документирования моих технических навыков в работе с разными проектами. Периодически я возвращаюсь к старым постам, это помогает мне решать текущие проблемы и задачи. 
+Hello! My name is Dmytro Zatulin, and I am a system administrator with 10 years of experience, primarily specializing in Linux technologies. For the past 4 years, I have been working as a DevOps engineer, focusing on automation, infrastructure management, and cloud technologies. I created this blog to document my technical skills and experiences working on various projects. From time to time, I revisit my old posts, which helps me solve current problems and challenges.
