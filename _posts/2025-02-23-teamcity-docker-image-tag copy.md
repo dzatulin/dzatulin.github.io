@@ -6,7 +6,6 @@ categories:
 tags:
   - Docker
   - TeamCity
-  - Docker
 ---
 
 ### Creating Docker Tags with Git Commit Hash and Environment in TeamCity
